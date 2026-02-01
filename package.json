@@ -1,0 +1,12 @@
+{
+  "name": "smartleads-ai",
+  "version": "1.0.0",
+  "description": "> **Eficiência Operacional impulsionada por IA.** Transforme leads frios em agendamentos qualificados 24/7, sem intervenção humana inicial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
