@@ -1,0 +1,17 @@
+{
+    "metadata": {
+      "source": "typebot_web",
+      "campaign": "google_ads_v1",
+      "timestamp": "2026-02-01T10:30:00Z"
+    },
+    "contact": {
+      "name": "Carlos Silva",
+      "whatsapp": "5511999998888",
+      "email": "carlos.silva@email.com"
+    },
+    "interaction": {
+      "raw_intent": "Olá, preciso saber como funciona o processo para revisão de aposentadoria, meu pai trabalhou 30 anos em metalúrgica.",
+      "urgency_signal": "high",
+      "budget_range": "unknown"
+    }
+  }
